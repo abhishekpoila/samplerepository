@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8725" started-at="2017-02-13T17:49:38Z" finished-at="2017-02-13T17:49:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8725" started-at="2017-02-13T17:49:38Z" finished-at="2017-02-13T17:49:46Z">
+      <class name="com.auto_Testscript.Testscript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.auto_Testscript.Testscript@203ea1]" name="setup" is-config="true" duration-ms="10253" started-at="2017-02-13T23:19:27Z" finished-at="2017-02-13T23:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testbaseobject()[pri:0, instance:com.auto_Testscript.Testscript@203ea1]" name="testbaseobject" duration-ms="8711" started-at="2017-02-13T23:19:38Z" finished-at="2017-02-13T23:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbaseobject -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.auto_Testscript.Testscript@203ea1]" name="teardown" is-config="true" duration-ms="1099" started-at="2017-02-13T23:19:46Z" finished-at="2017-02-13T23:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.auto_Testscript.Testscript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
